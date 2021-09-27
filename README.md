@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to run the application locally
 
-Use GitHub CLI to pull down code to your local machine
+Use GitHub CLI to pull down code to your local machine and then change directories.
 
 ### `gh repo clone andys-coming/Blog && cd Blog`
 
