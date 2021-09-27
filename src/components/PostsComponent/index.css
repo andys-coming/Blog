@@ -1,0 +1,16 @@
+.posts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.post {
+  margin-bottom: 10px;
+  width: 550px;
+}
+
+.unstyled-link {
+  text-decoration: none;
+  color: black;
+}
