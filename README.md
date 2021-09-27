@@ -8,7 +8,7 @@ Use GitHub CLI to pull down code to your local machine and then change directori
 
 ### `gh repo clone andys-coming/Blog && cd Blog`
 
-Install all dependencies using (Yarn)[https://classic.yarnpkg.com/en/]
+Install all dependencies using [Yarn](https://classic.yarnpkg.com/en/)
 
 ### `yarn`
 
