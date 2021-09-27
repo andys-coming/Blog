@@ -26,7 +26,7 @@ export const PostDetailComponent = ({
     body: postBody = "",
     userId: authorId = "",
     title: postTitle,
-    name: author = ""
+    fullName: author = ""
   } = {}
 }) => {
   const [isDrawerVisible, setDrawerVisibility] = React.useState(false);
