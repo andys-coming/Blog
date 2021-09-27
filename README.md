@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to run the application locally
 
-In the project directory, you can run the following command in order to install all dependencies:
+If you are using the GitHub CLI, then you can run the following command in your terminal in order to pull down the repository
+
+## `gh repo clone andys-coming/Blog && cd Blog`
+
+You can then run the following command in order to install all dependencies:
 
 ### `yarn`
 
